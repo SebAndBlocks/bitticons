@@ -1,0 +1,57 @@
+{
+    "image1": {
+        "data": "hwQIAAgAAAAA//8A8PDwD//w8PD/8PDw//Dw8A8PD//wDw8PAP//AA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "web"
+    },
+    "image10": {
+        "data": "hwQIAAgAAAAzM///MzP//zMz//8zM/////8zM///MzP//zMz//8zMw==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "broken"
+    },
+    "image2": {
+        "data": "hwQIAAgAAAD/AADw/w8AD/D/8AAA/w8AAPD/AAAP/w/wAPD/DwAA/w==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "xtwit"
+    },
+    "image3": {
+        "data": "hwQIAAgAAAAA//8A8P//D///D///AAAAD/8P///////w//8PAP//AA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "facebook"
+    },
+    "image4": {
+        "data": "hwQIAAgAAADw//8PDwAA8A8AAPAP8A/wD/AP8A8PAPAPAADw8P//Dw==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "insta"
+    },
+    "image5": {
+        "data": "hwQIAAgAAAAAAAAAAADwDwAAD/AAAADw////D/AAAAAADwAAAPAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "tiktok"
+    },
+    "image6": {
+        "data": "hwQIAAgAAAAA8AAP8A//8A8AAPAPAADwDwAA8A8AAPDwD//wAPAADw==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "snap"
+    },
+    "image7": {
+        "data": "hwQIAAgAAADw//8P/w/////w/w8P/wDwD/8P/w//D///APD/8P//Dw==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "pintrest"
+    },
+    "image8": {
+        "data": "hwQIAAgAAAAA////8AAA8A/wD/APD/DwDwAP8A8AAPDwAAAPAP//AA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "whatsapp"
+    },
+    "image9": {
+        "data": "hwQIAAgAAAD///////AAAP///////wAA///w////8P///w8A/////w==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "linkedin"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
